@@ -101,3 +101,15 @@ border-image-slice: 1;
  text-align:center ;
 
     }
+    header p{
+
+        text-align: right;
+       font-size: 30px;
+       float: right;
+       padding-left: 20px;
+       color: black;
+    }
+    header{
+height: 15%;
+
+    }
